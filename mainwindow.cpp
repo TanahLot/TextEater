@@ -153,7 +153,7 @@ void MainWindow::about()
     QMessageBox::about(this,tr("About"),
                        tr("Text Eater - program for remove text from balloons.<br>"
                           "Website and source - "
-                          "<a href=\"https://github.com/textEater\">https://github.com/textEater</a>"));
+                          "<a href=\"https://github.com/TanahLot/TextEater\">https://github.com/TanahLot/TextEater</a>"));
 }
 
 void MainWindow::nextPrev(int step)
