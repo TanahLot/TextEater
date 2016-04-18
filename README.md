@@ -1,5 +1,5 @@
 # TextEater
-Simple script for remove text from manga balloons. For script view point "text" mean any black object smallest than max text width and max text height parameters. It's not very smart, but work in many case.
+Simple script for remove text from manga balloons. For script view point "text" mean any black object smallest than max text width and max text height parameters. It's not very smart, but work In the most cases.
 
 How to use:<br>
 1) Open image file in sript.<br>
